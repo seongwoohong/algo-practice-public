@@ -1,7 +1,7 @@
 # 1. Two Sum
 
 | Categories  | Runtime     | Memory      |
-| ----------- | ----------- | ----------- |
+| :-----------: | :-----------: | :-----------: |
 | Array, HashTable         | 4ms         | 3.4MB       |
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
